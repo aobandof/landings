@@ -1,0 +1,2 @@
+# landings
+ statics landing pages
